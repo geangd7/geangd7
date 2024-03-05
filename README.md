@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @geangd7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-geangd7/geangd7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm @geangd7
+- 👀 I'm interested in learning programming and other languages
+- 🌱 I'm currently learning programming at school
+- 💞️ I try to collaborate in knowledge and others
+- 📫 How to contact me geangd7@gmail.com
